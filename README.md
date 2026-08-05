@@ -1,16 +1,24 @@
 <p align="center">
-  <b>Hi, I'm ndadevdev</b> 👋<br />
-  <font color="#8b949e"><i>Full-stack developer — web • backend • DevOps • AI &amp; data</i></font>
+  <img src="banner.svg" alt="ndadevdev, full-stack developer banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=470&lines=Full-stack+developer;Web+%C2%B7+Backend+%C2%B7+DevOps;AI+%26+data+enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ndadevdev&amp;color=38bdf8&amp;style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-## Tentang Saya — About
+## Tentang Saya
 
-- Membangun aplikasi web & sistem backend yang solid — building web apps and solid backend systems.
-- Menjelajahi cloud, DevOps, dan otomasi — exploring cloud, DevOps, and automation.
-- Sedang mendalami AI & data engineering — currently diving into AI and data.
-- Terbuka untuk kolaborasi dan ide-ide baru — open to collaboration and fresh ideas.
+- Bikin web app & backend yang solid, mostly React, Node.js, sama Python.
+- Main cloud, DevOps, dan otomasi. Docker, Kubernetes, AWS.
+- Lagi nyemplung ke AI & data engineering.
+- Suka bikin tools yang memecahkan masalah nyata.
+- Terbuka buat kolaborasi dan ide baru.
 
 ---
 
@@ -21,10 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&amp;logo=react&amp;logoColor=38bdf8&amp;labelColor=0d1117" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=38bdf8&amp;labelColor=0d1117" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&amp;logo=typescript&amp;logoColor=38bdf8&amp;labelColor=0d1117" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&amp;logo=javascript&amp;logoColor=38bdf8&amp;labelColor=0d1117" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js&amp;theme=dark" alt="React, Next.js, TypeScript, JavaScript" />
 </p>
 
 <p align="center">
@@ -32,10 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=38bdf8&amp;labelColor=0d1117" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&amp;logo=python&amp;logoColor=38bdf8&amp;labelColor=0d1117" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-161b22?style=for-the-badge&amp;logo=go&amp;logoColor=38bdf8&amp;labelColor=0d1117" alt="Go" />
-  <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&amp;labelColor=0d1117" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,py,go,java&amp;theme=dark" alt="Node.js, Python, Go, Java" />
 </p>
 
 <p align="center">
@@ -43,10 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&amp;logo=docker&amp;logoColor=38bdf8&amp;labelColor=0d1117" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-161b22?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=38bdf8&amp;labelColor=0d1117" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-161b22?style=for-the-badge&amp;labelColor=0d1117" alt="AWS" />
-  <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&amp;logo=linux&amp;logoColor=38bdf8&amp;labelColor=0d1117" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux&amp;theme=dark" alt="Docker, Kubernetes, AWS, Linux" />
 </p>
 
 <p align="center">
@@ -54,23 +53,41 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&amp;logo=postgresql&amp;logoColor=38bdf8&amp;labelColor=0d1117" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&amp;logo=mongodb&amp;logoColor=38bdf8&amp;labelColor=0d1117" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&amp;logo=git&amp;logoColor=38bdf8&amp;labelColor=0d1117" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,git&amp;theme=dark" alt="PostgreSQL, MongoDB, Git" />
 </p>
 
 ---
 
-## GitHub Stats — Statistik
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ndadevdev&amp;show_icons=true&amp;theme=github_dark&amp;hide_rank=true&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndadevdev&amp;layout=compact&amp;theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=ndadevdev&amp;show_icons=true&amp;theme=github_dark&amp;hide_rank=true&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ndadevdev&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ndadevdev&amp;theme=github-dark&amp;hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://trophy.benkou.dev/?username=ndadevdev&amp;theme=onestar&amp;no-bg=true&amp;no-frame=true&amp;column=4&amp;margin-w=6&amp;margin-h=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## Kontak — Contact
+## Aktivitas
+
+<p align="center">
+  <img src="dist/snake.svg" alt="Kontribusi GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndadevdev&amp;theme=github-dark&amp;hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## Kontak
 
 <p align="center">
   <a href="https://github.com/ndadevdev">

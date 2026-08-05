@@ -14,11 +14,9 @@
 
 ## Tentang Saya
 
-- Bikin web app & backend yang solid, mostly React, Node.js, sama Python.
-- Main cloud, DevOps, dan otomasi. Docker, Kubernetes, AWS.
-- Lagi nyemplung ke AI & data engineering.
-- Suka bikin tools yang memecahkan masalah nyata.
-- Terbuka buat kolaborasi dan ide baru.
+<p align="center">
+  <img src="about.svg" alt="Tentang ndadevdev" width="100%" />
+</p>
 
 ---
 

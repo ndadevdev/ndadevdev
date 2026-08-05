@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="276" viewBox="0 0 800 276" role="img" aria-label="Tentang ndadevdev">
+  <style>
+    @keyframes blink  { 0%, 49% { opacity: 1 } 50%, 100% { opacity: 0 } }
+    @keyframes lineIn { from { opacity: 0; transform: translateY(7px) } to { opacity: 1; transform: translateY(0) } }
+    @keyframes glowPulse { 0%, 100% { opacity: 0.18 } 50% { opacity: 0.32 } }
+    .line   { opacity: 0; animation: lineIn 0.55s ease-out forwards; }
+    .l0 { animation-delay: 0.15s }
+    .l1 { animation-delay: 0.45s }
+    .l2 { animation-delay: 0.7s }
+    .l3 { animation-delay: 0.95s }
+    .l4 { animation-delay: 1.2s }
+    .l5 { animation-delay: 1.45s }
+    .cursor { animation: blink 1.15s infinite; }
+    .glow   { animation: glowPulse 6s ease-in-out infinite; }
+    @media (prefers-reduced-motion: reduce) {
+      .line, .l0, .l1, .l2, .l3, .l4, .l5 { opacity: 1; animation: none; }
+      .cursor, .glow { animation: none; }
+    }
+  </style>
+
+  <defs>
+    <radialGradient id="glowCyan" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <circle class="glow" cx="120" cy="60" r="210" fill="url(#glowCyan)" opacity="0.2"/>
+  <circle class="glow" cx="700" cy="230" r="200" fill="url(#glowViolet)" opacity="0.2" style="animation-delay: 3s"/>
+
+  <rect x="1" y="1" width="798" height="274" rx="16" fill="#0d1117" stroke="#21262d" stroke-width="1.5"/>
+
+  <path d="M 17.5 1.5 L 782.5 1.5 Q 798.5 1.5 798.5 17.5 L 798.5 39.5 L 1.5 39.5 L 1.5 17.5 Q 1.5 1.5 17.5 1.5 Z" fill="#161b22"/>
+  <circle cx="30" cy="20.5" r="4.5" fill="#30363d"/>
+  <circle cx="48" cy="20.5" r="4.5" fill="#30363d"/>
+  <circle cx="66" cy="20.5" r="4.5" fill="#30363d"/>
+  <text x="88" y="25.5" font-family="'SF Mono','Cascadia Code','Consolas',monospace" font-size="13.5" fill="#8b949e">~/ndadevdev</text>
+  <rect x="1.5" y="40" width="797" height="1" fill="#1c2128"/>
+
+  <text class="line l0" x="40" y="74" font-family="'SF Mono','Cascadia Code','Consolas',monospace" font-size="21" font-weight="700" fill="#38bdf8">&gt;_</text>
+
+  <g class="line l1" font-family="'Segoe UI','Helvetica Neue',system-ui,sans-serif" font-size="20" fill="#dbe6ee">
+    <text x="40" y="112" font-family="'SF Mono','Cascadia Code','Consolas',monospace" font-size="16" font-weight="700" fill="#38bdf8">&gt;</text>
+    <text x="64" y="112">Bikin web app &amp; backend yang solid, mostly</text>
+    <text x="64" y="140">React, Node.js, sama Python.</text>
+  </g>
+
+  <g class="line l2" font-family="'Segoe UI','Helvetica Neue',system-ui,sans-serif" font-size="20" fill="#dbe6ee">
+    <text x="40" y="168" font-family="'SF Mono','Cascadia Code','Consolas',monospace" font-size="16" font-weight="700" fill="#38bdf8">&gt;</text>
+    <text x="64" y="168">Main cloud, DevOps, dan otomasi. Docker, Kubernetes, AWS.</text>
+  </g>
+
+  <g class="line l3" font-family="'Segoe UI','Helvetica Neue',system-ui,sans-serif" font-size="20" fill="#dbe6ee">
+    <text x="40" y="196" font-family="'SF Mono','Cascadia Code','Consolas',monospace" font-size="16" font-weight="700" fill="#38bdf8">&gt;</text>
+    <text x="64" y="196">Lagi nyemplung ke AI &amp; data engineering.</text>
+  </g>
+
+  <g class="line l4" font-family="'Segoe UI','Helvetica Neue',system-ui,sans-serif" font-size="20" fill="#dbe6ee">
+    <text x="40" y="224" font-family="'SF Mono','Cascadia Code','Consolas',monospace" font-size="16" font-weight="700" fill="#38bdf8">&gt;</text>
+    <text x="64" y="224">Suka bikin tools yang memecahkan masalah nyata.</text>
+  </g>
+
+  <g class="line l5" font-family="'Segoe UI','Helvetica Neue',system-ui,sans-serif" font-size="20" fill="#dbe6ee">
+    <text x="40" y="252" font-family="'SF Mono','Cascadia Code','Consolas',monospace" font-size="16" font-weight="700" fill="#38bdf8">&gt;</text>
+    <text x="64" y="252">Terbuka buat kolaborasi dan ide baru.</text>
+  </g>
+
+  <rect class="cursor" x="444" y="233" width="4" height="21" rx="2" fill="#38bdf8"/>
+</svg>

@@ -22,37 +22,26 @@
 
 ## Tech Stack
 
-<p align="center">
-  <font color="#38bdf8"><b>Frontend</b></font>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js&amp;theme=dark" alt="React, Next.js, TypeScript, JavaScript" />
-</p>
-
-<p align="center">
-  <font color="#38bdf8"><b>Backend</b></font>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,py,go,java&amp;theme=dark" alt="Node.js, Python, Go, Java" />
-</p>
-
-<p align="center">
-  <font color="#38bdf8"><b>DevOps &amp; Cloud</b></font>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux&amp;theme=dark" alt="Docker, Kubernetes, AWS, Linux" />
-</p>
-
-<p align="center">
-  <font color="#38bdf8"><b>Database &amp; Tools</b></font>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,git&amp;theme=dark" alt="PostgreSQL, MongoDB, Git" />
-</p>
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="right"><font color="#38bdf8"><b>Frontend</b></font></td>
+      <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js&amp;theme=dark" alt="React, Next.js, TypeScript, JavaScript" /></td>
+    </tr>
+    <tr>
+      <td align="right"><font color="#38bdf8"><b>Backend</b></font></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,py,go,java&amp;theme=dark" alt="Node.js, Python, Go, Java" /></td>
+    </tr>
+    <tr>
+      <td align="right"><font color="#38bdf8"><b>DevOps &amp; Cloud</b></font></td>
+      <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux&amp;theme=dark" alt="Docker, Kubernetes, AWS, Linux" /></td>
+    </tr>
+    <tr>
+      <td align="right"><font color="#38bdf8"><b>Database &amp; Tools</b></font></td>
+      <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,git&amp;theme=dark" alt="PostgreSQL, MongoDB, Git" /></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -64,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ndadevdev&amp;theme=github-dark&amp;hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-streak-stats.vercel.app/?user=ndadevdev&amp;theme=github-dark&amp;hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
